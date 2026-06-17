@@ -1,0 +1,16 @@
+{
+  "sounds": [
+    { "name": "Daisy", "file": "DaisySong.mp3" },
+    { "name": "FNAF Music Box", "file": "FNAFMusicBox.mp3" },
+    { "name": "Maze Game Scream", "file": "MazeGameScream.mp3" },
+    { "name": "Ghostly Sound", "file": "ghostly-sound.mp3" },
+    { "name": "FNAF Ambience", "file": "fnaf-ambience.mp3" },
+    { "name": "Whispers", "file": "whispers.mp3" },
+    { "name": "Distorted Trumpets", "file": "distorted-trumpets.mp3" },
+    { "name": "PBBV Troll", "file": "pbbv-troll.mp3" },
+    { "name": "PBBV Is Watching", "file": "pbbv-is-watching.mp3" },
+    { "name": "Scary Music", "file": "scarymusic.mp3" },
+    { "name": "Juke", "file": "gorilla-tag-juke.mp3" },
+    { "name": "Super Mario World Ending Theme", "file": "supermarioworld-ending-theme.mp3" }
+  ]
+}
